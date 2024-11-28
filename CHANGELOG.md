@@ -2,6 +2,13 @@ Changelog
 =========
 Releases for CakePHP 5
 -------------
+* 14.3.1
+  * Fix duplicated rule name in rules checker
+* 14.3.0
+  * Update Translations.md by @MarwanSalim in #1089
+  * Fix named parameter issue in _createSocialUser method for findExistingForSocialLogin #1091 by @robitmoh in #1092
+  * Bug #1084 Fix issue with avatar images long URL by @flohdez in #1094
+  * #1096: fixed findExistingForSocialLogin finder by @arusinowski in #1097
 * 14.2.1
   * Improve documentation about password meter.
   * Fix minor bugs 

@@ -12,7 +12,7 @@ Versions and branches
 
 |    CakePHP     |                    CakeDC Users Plugin                     |  Tag   | Notes    |
 |:--------------:|:----------------------------------------------------------:|:------:|:---------|
-|      ^5.0      | [14.2](https://github.com/cakedc/users/tree/14.next-cake5) | 14.2.1 | stable   |
+|      ^5.0      | [14.2](https://github.com/cakedc/users/tree/14.next-cake5) | 14.3.1 | stable   |
 |      ^4.5      | [13.0](https://github.com/cakedc/users/tree/13.next-cake4) | 13.0.1 | stable   |
 |      ^5.0      | [12.0](https://github.com/cakedc/users/tree/12.next-cake5) |  12.0  | beta     |
 |      ^4.3      | [11.0](https://github.com/cakedc/users/tree/11.next-cake4) | 11.1.0 | stable   |
@@ -75,6 +75,11 @@ Contributing
 ------------
 
 This repository follows the [CakeDC Plugin Standard](https://www.cakedc.com/plugin-standard). If you'd like to contribute new features, enhancements or bug fixes to the plugin, please read our [Contribution Guidelines](https://www.cakedc.com/contribution-guidelines) for detailed instructions.
+
+Security
+------------
+
+If you've found a security issue in CakeDC Users plugin, please use the procedure described in [SECURITY.md](.github/SECURITY.md)
 
 License
 -------
